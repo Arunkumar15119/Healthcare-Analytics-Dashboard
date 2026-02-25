@@ -58,10 +58,12 @@ The dataset contains over **10,000 healthcare records**, including:
 ## 📷 Dashboard Preview
 
 
-<img width="874" height="490" alt="Screenshot 2026-02-25 225149" src="https://github.com/user-attachments/assets/242967f0-8657-449b-b9e8-fc9f7f520cd5" />
+## Executive Overview
+![Executive Overview](Executive_overview.png)
 
-<img width="867" height="485" alt="Screenshot 2026-02-25 225219" src="https://github.com/user-attachments/assets/4e83bf88-3f65-4dc7-b368-2811f1d7631f" />
+## Medical Analysis
+![Medical Analysis](Medical_analysis.png)
 
-<img width="868" height="489" alt="Screenshot 2026-02-25 225240" src="https://github.com/user-attachments/assets/67b66250-2c45-408e-bdf8-93001d930626" />
-
+## Financial Analysis
+![Financial Analysis](Financial_analysis.png)
 
